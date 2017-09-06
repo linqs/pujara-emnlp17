@@ -47,10 +47,10 @@ The paper that this code supports.
 
 ## Fetching Data
 
-Raw data is available at: https://linqs-data.soe.ucsc.edu/public/pujara-emnlp17/data-raw.tar.gz
+Raw data is available at: https://linqs-data.soe.ucsc.edu/public/pujara-emnlp17/data-raw.tar.gz  
 The compressed data is 1.1 GB while the uncompressed data is 5.9 GB.
 
-Raw data **with** embeddings is available at: https://linqs-data.soe.ucsc.edu/public/pujara-emnlp17/data-full.tar.gz
+Raw data **with** embeddings is available at: https://linqs-data.soe.ucsc.edu/public/pujara-emnlp17/data-full.tar.gz  
 The compressed data is 3.3 GB while the uncompressed data is 14 GB.
 
 Since embeddings make take days to generate, it is usually preferred to spend the extra time downloading the data instead of generating the embeddings.
